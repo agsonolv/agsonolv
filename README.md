@@ -1,4 +1,4 @@
-### Olá, me chamo Agson Oliveira 📌
+### Agson Oliveira 
 
 [![Codepen](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agson-oliveira-38b059229)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/agsonolv)
