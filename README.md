@@ -14,4 +14,4 @@
 
 Curso de Programação em andamento - Programador Full Stack Javascript (OneBitCode)
 
-Início: 06/04/2022 | Previsão de Término: 06/10/2022
+Início: 06/04/2022
