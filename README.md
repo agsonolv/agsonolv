@@ -12,6 +12,6 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-Curso de Programação em andamento - Programador Full Stack Javascript (OneBitCode)
+Curso de programação em andamento - Programador Full Stack Javascript (OneBitCode)
 
 Início: 06/04/2022
