@@ -4,7 +4,7 @@
 
 ### Tecnologias usadas 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js)](https://skillicons.dev)
 
 ### Redes sociais 📌
 
