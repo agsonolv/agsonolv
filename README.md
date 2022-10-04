@@ -1,6 +1,6 @@
 ## Eu sou Agson Oliveira! 🤟
 
-![Agson GitHub stats](https://github-readme-stats.vercel.app/api?username=agsonolv&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agsonolv&show_icons=true&theme=dark)
 
 ### Tecnologias usadas 🚀
 
