@@ -1,4 +1,4 @@
-## Eu sou Agson Oliveira! 🤟
+## Prazer, Agson Oliveira 👋🏻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agsonolv&show_icons=true&theme=dark)
 
